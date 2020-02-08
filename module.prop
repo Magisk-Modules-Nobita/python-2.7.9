@@ -1,6 +1,6 @@
 id=template
-name=Template Module
-version=v1
+name=Python 2.7.9
+version=v0.1-alpha
 versionCode=1
-author=topjohnwu
+author=Nobi Nobita, Đinh San
 description=A short description
