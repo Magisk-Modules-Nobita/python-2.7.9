@@ -50,8 +50,12 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "    Python 2.7.9 For Android   "
   ui_print "*******************************"
+  ui_print " Nobi Nobita "
+  ui_print " topjohnwu "
+  ui_print " Chồn Team "
+  ui_print " Đinh San "
 }
 
 ##########################################################################################
@@ -65,10 +69,11 @@ print_modname() {
 # You don't need to remove the example below, these values will be overwritten by your own list
 # This is an example
 REPLACE="
-/system/app/Youtube
-/system/priv-app/SystemUI
-/system/priv-app/Settings
-/system/framework
+/system/bin
+/system/python2.7.9/bin
+/system/python2.7.9/include/python2.7
+/system/python2.7.9/lib
+/system/python2.7.9/share/man/man1
 "
 
 # Construct your own list here, it will overwrite the example
